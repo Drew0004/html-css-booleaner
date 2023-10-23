@@ -11,6 +11,7 @@
     display: inline-block;
     background-size: 25%;
     background-image: url(img/pattern.png);
+    
 }
 
 #logo{
@@ -37,5 +38,10 @@ h1{
 
 .ContainerImg{
     margin-top: 30px;
+    margin-left: 10px;
+}
+
+.didascalie2{
+    font-family: Arial, Helvetica, sans-serif;
     margin-left: 10px;
 }
